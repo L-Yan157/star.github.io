@@ -1,0 +1,265 @@
+
+
+    .image_1 {
+
+        background-image: url(../image/A1.jpg);
+
+        background-position: 0 0;
+
+        background-attachment: fixed;
+
+        background-size: cover;
+
+        height: 300px;
+
+        width: 100%;
+
+    }
+
+    .image_2 {
+
+        background-image: url(../image/A2.jpg);
+
+        background-position: 0 0;
+
+        background-attachment: fixed;
+
+        background-size: cover;
+
+        height: 300px;
+
+        width: 100%;
+
+    }
+
+    .image_3 {
+
+        background-image: url(../image/A3.jpg);
+
+        background-position: 0 0;
+
+        background-attachment: fixed;
+
+        background-size: cover;
+
+        height: 300px;
+
+        width: 100%;
+
+    }
+
+    .image_4 {
+
+        background-image: url(../image/A4.jpg);
+
+        background-position: 0 0;
+
+        background-attachment: fixed;
+
+        background-size: cover;
+
+        height: 300px;
+
+        width: 100%;
+
+    }
+
+                .image_5 {
+        
+                    background-image: url(../image/A5.jpg);
+        
+                    background-position: 0 0;
+        
+                    background-attachment: fixed;
+        
+                    background-size: cover;
+        
+                    height: 300px;
+        
+                    width: 100%;
+        
+                }
+
+                .image_6 {
+        
+                    background-image: url(../image/A3.jpg);
+        
+                    background-position: 0 0;
+        
+                    background-attachment: fixed;
+        
+                    background-size: cover;
+        
+                    height: 700px;
+        
+                    width: 100%;
+        
+                }
+
+    .word {
+
+        position: relative;
+
+        top: 100px;
+
+        font-size: 55px;
+
+        color: white;
+
+        text-align: center;
+
+        font-weight: bolder;
+
+        font-family: "阿里巴巴普惠体";
+
+    }
+
+                .word2 {
+        
+                    position: relative;
+        
+                    font-size: 20px;
+        
+                    color: white;
+        
+                    text-align: left;
+        
+                    font-weight: 700;
+        
+                    font-family: "阿里巴巴普惠体";
+
+                    line-height: 2;
+        
+                }
+
+                .English {
+        
+                    position: relative;
+        
+                    top: 100px;
+        
+                    font-size: 23px;
+        
+                    color: rgb(178, 178, 178);
+        
+                    text-align: center;
+        
+                    font-weight: bolder;
+        
+                    font-family: Arial, Helvetica, sans-serif;
+        
+                }
+
+    .bg5 {
+
+        text-align: left;
+
+        font-size: 20px;
+
+        font-weight: 500;
+
+        height: 1950px;
+
+        line-height: 40px;
+
+        background-color:#318978;
+
+        color: #ffffff;
+
+        letter-spacing: 2px;
+
+    }
+
+                .bg1 {
+        
+                    text-align: left;
+        
+                    font-size: 20px;
+        
+                    font-weight: 400;
+        
+                    height: 3145px;
+        
+                    line-height: 40px;
+        
+                    background-color: #318978;
+        
+                    color: #ffffff;
+        
+                    letter-spacing: 2px;
+        
+                }
+
+                                                                .bg2 {
+                                
+                                                                    text-align: left;
+                                
+                                                                    font-size: 20px;
+                                
+                                                                    font-weight: 400;
+                                
+                                                                    height: 4300px;
+                                
+                                                                    line-height: 40px;
+                                
+                                                                    background-color: #318978;
+                                
+                                                                    color: #ffffff;
+                                
+                                                                    letter-spacing: 2px;
+                                
+                                                                }
+
+
+                                .bg3 {
+                
+                                    text-align: left;
+                
+                                    font-size: 20px;
+                
+                                    font-weight: 400;
+                
+                                    height: 5100px;
+                
+                                    line-height: 40px;
+                
+                                    background-color: #318978;
+                
+                                    color: #ffffff;
+                
+                                    letter-spacing: 2px;
+                
+                                }
+
+
+                                                                        .bg4 {
+                                    
+                                                                            text-align: left;
+                                 
+                                                                            font-size: 20px;
+                                    
+                                                                            font-weight: 400;
+                                    
+                                                                            height: 4800px;
+                                    
+                                                                            line-height: 40px;
+                                    
+                                                                            background-color: #318978;
+                                    
+                                                                            color: #ffffff;
+                                    
+                                                                            letter-spacing: 2px;
+                                    
+                                                                        }
+
+    .A1 {width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 2em;
+        z-index: 2;
+    }
+
+        .A2{color: rgb(251, 214, 159);
+            font-weight: 600;z-index: 2;}
+    

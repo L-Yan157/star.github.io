@@ -1,0 +1,23 @@
+
+
+ #container {
+    margin: 0;
+      /* 移除默认的边距 */
+    padding: 0;
+    position: relative;
+   /* 如果需要的话，使用相对定位 */
+   width: 100vw;
+   height: 100vh;
+   /* 使用视口高度作为容器高度 */
+   background-color:transparent ;
+   /* 将背景色设置在这里 */
+ }
+
+ #starCanvas {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   z-index: 1;
+ }

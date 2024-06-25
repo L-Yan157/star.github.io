@@ -1,0 +1,17 @@
+* {
+    /* 初始化 */
+    margin: 0;
+    padding: 0;
+}
+
+
+#plane {
+    color: #fff;
+    font-size: 50px;
+    /* 绝对定位 */
+    position: absolute;
+    /* 弹性布局 水平+垂直居中 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

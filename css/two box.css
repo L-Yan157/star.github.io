@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    /* 使用Flexbox布局 */
+    gap: 20px;
+    /* 如果有需要，可以调整子项之间的间距 */
+}
+
+.column {
+    flex: 1;
+    /* 使得两个列子项占据相等的空间 */
+    padding: 10px;
+    /* 添加一些内边距，使内容不会紧贴着边框 */
+    box-sizing: border-box;
+    /* 包括padding和border在内计算元素的宽度 */
+}
